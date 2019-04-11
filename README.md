@@ -1,2 +1,2 @@
-# lotus-goodman.github.io
+# https://lotus-goodman.github.io
 Site da organização Lotus Goodman.
