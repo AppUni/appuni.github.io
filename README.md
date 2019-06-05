@@ -1,2 +1,2 @@
-# https://lotus-goodman.github.io
-Site da organização Lotus Goodman.
+# https://appuni.github.io
+Site da organização AppUni - Aplicativos Universitários.
